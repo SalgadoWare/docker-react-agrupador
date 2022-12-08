@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+
+} 
+
+
+.divInline {
+    display: inline;
+}
+
+.flexEnd{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.containerBotonesID{
+    display: flex;
+    justify-content: space-between;
+
+}
